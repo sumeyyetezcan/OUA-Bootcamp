@@ -62,6 +62,10 @@ Kullanıcıların günlük, haftalık ya da aylık görevlerini organize edebile
 
 - **Sprint board update:** Pano ekran görüntüsü:
 
+![Ekran görüntüsü 2024-07-07 215853](https://github.com/sumeyyetezcan/OUA-Bootcamp/assets/67188413/fbed121a-0dae-4812-b8c3-6c242c3105d0)
+
+(Mor renkli olan görevler sprint 1 hedefleridir.)
+
 - **Ürün durumu:** Ürünün fikir aşaması tamamlanmıştır. Tasarım ve geliştirme sürecine geçilecektir.
 
 - **Sprint Review:** Alınan Kararlar:
