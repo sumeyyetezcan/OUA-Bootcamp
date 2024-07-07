@@ -3,7 +3,7 @@
 Takım Flutter 95
 ## Takım Elemanları
 - Sümeyye Tezcan: Scrum Master / Developer
-- Sıla Bozdağ: Developer
+- Sıla Bozdağ: Product Owner / Developer
 - Sudenur Şenkal: Developer
 - Şevki Volkan Taşbent: Developer
 - Zeliha Orhan: Aktif olmayan üye
