@@ -80,4 +80,4 @@ Kullanıcıların günlük, haftalık ya da aylık görevlerini organize edebile
   - Ürünün arayüz tasarımına başlanacaktır.
 
 ## Product Backlog URL
-https://trello.com/invite/b/Gh9qgTwu/ATTIf6c661e1da25259ce2478958a323a9ccD1590D95/oua-bootcamp
+[Backlog Board](https://trello.com/invite/b/Gh9qgTwu/ATTIf6c661e1da25259ce2478958a323a9ccD1590D95/oua-bootcamp)
