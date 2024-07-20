@@ -87,9 +87,13 @@ Kullanıcıların günlük, haftalık ya da aylık görevlerini organize edebile
 
 - **Sprint içinde tamamlanması beklenen puan:** 100 Puan
 
-- **Daily Scrum:** Daily Scrum toplantıları genel olarak WhatsApp üzerinden ilerlemektedir. Takımımız gerekli zamanlarda Google Meets ve Zoom üzerinden de sesli görüşmeler gerçekleştirmektedir. (screenshot)
+- **Daily Scrum:** Daily Scrum toplantıları genel olarak WhatsApp üzerinden ilerlemektedir. Takımımız gerekli zamanlarda Google Meets ve Zoom üzerinden de sesli görüşmeler gerçekleştirmektedir.
 
-- **Sprint Board Update:** Pano ekran görüntüsü: (screenshot)
+- **Sprint Board Update:** Pano ekran görüntüsü:
+
+![Ekran görüntüsü2 2024-07-20 233728](https://github.com/user-attachments/assets/d82d4baa-3519-49b0-8e42-d7a970e37ac9)
+
+(Mavi renkli olan görevler sprint 2 hedefleridir.)
 
 - **Ürün Durumu:** Ekran görüntüleri: (screenshot)
 
