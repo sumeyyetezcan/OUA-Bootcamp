@@ -91,16 +91,26 @@ Kullanıcıların günlük, haftalık ya da aylık görevlerini organize edebile
 
 - **Sprint Board Update:** Pano ekran görüntüsü:
 
-![Ekran görüntüsü2 2024-07-20 233728](https://github.com/user-attachments/assets/d82d4baa-3519-49b0-8e42-d7a970e37ac9)
-
-(Mavi renkli olan görevler sprint 2 hedefleridir.)
-
-- **Ürün Durumu:** Ekran görüntüleri: (screenshot)
+- **Ürün Durumu:**
+  - Bu sprintte takım üyelerimizin yoğunlukları nedeniyle ürünün arayüzü tamamlanamamıştır ancak çalışmalarımız sürmektedir.
+  - Arayüz içerikleri belirlenmiştir.
+    - Ana ekran:
+      - Görev Listesi: Tamamlanmamış görevlerin bir listesini gösterecektir. Her görev için bir metin açıklaması, son tarih ve tamamlanma durumu (tamamlanmış veya tamamlanmamış) olacaktır.
+      - Yeni Görev Ekle: Kullanıcıların yeni bir görev ekleyebilecekleri bir alan bulunacaktır.
+      - Filtreler: Kullanıcıların görevlere öncelik, son tarih veya kategoriye göre filtrelemeleri sağlanacaktır.
+      - Ayarlar: Kullanıcıların bildirimleri, görünüm tercihlerini ve diğer ayarları özelleştirebilecekleri bir alan bulunacaktır.
+    - Görev detayı:
+      - Görev Açıklaması: Görevle ilgili tüm bilgileri gösterecektir.
+      - Son Tarih: Görev tamamlanma tarihini ve saatini gösterecektir.
+      - Hatırlatıcılar: Kullanıcıların göreve yaklaştıklarında bildirim almalarını sağlayacaktır.
+      - Notlar: Kullanıcıların göreve ek bilgiler eklemeleri sağlanacaktır.
+      - Durum: Görev tamamlandığında işaretlenebilecektir.
 
 - **Sprint Review:** Alınan Kararlar:
+  - Ürün durumunda arayüz özellikleri için verilen kararlan alınmıştır.
   - Logo için renk seçimi ve tasarım aşamaları devam etmektedir.
   - Ürünün kodlama aşamalarına başlanmıştır.
-  - Giriş sayfası arayüzü oluşturulmuştur.
+  - Uygulama arayüzü içerikleri belirlenmiştir.
   - Kullanıcı temel sayfaları oluşturulmaya başlanmıştır.
 
 - **Sprint Retrospective:**
