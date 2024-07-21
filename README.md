@@ -91,6 +91,8 @@ Kullanıcıların günlük, haftalık ya da aylık görevlerini organize edebile
 
 - **Sprint Board Update:** Pano ekran görüntüsü:
 
+![Ekran görüntüsü2 1 2024-07-21 232659](https://github.com/user-attachments/assets/1065e3be-afb0-4071-b603-582cde38342c)
+
 - **Ürün Durumu:**
   - Bu sprintte takım üyelerimizin yoğunlukları nedeniyle ürünün arayüzü tamamlanamamıştır ancak çalışmalarımız sürmektedir.
   - Arayüz içerikleri belirlenmiştir.
