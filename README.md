@@ -124,6 +124,29 @@ Kullanıcıların günlük, haftalık ya da aylık görevlerini organize edebile
 ## Product Backlog URL
 [Backlog Board](https://trello.com/invite/b/Gh9qgTwu/ATTIf6c661e1da25259ce2478958a323a9ccD1590D95/oua-bootcamp)
 
-
 ## Takım Notu
 Tüm takım üyelerinin aktiflik durumu ve görev dağılımı önceki sprint ile aynı şekilde devam etmektedir.
+
+# Sprint 3
+
+- **Sprint içinde tamamlanması beklenen puan:** 100 Puan
+
+- **Daily Scrum:** Daily Scrum toplantıları genel olarak WhatsApp üzerinden ilerlemektedir. Takımımız gerekli zamanlarda Google Meets ve Zoom üzerinden de sesli görüşmeler gerçekleştirmektedir.
+
+- **Sprint Board Update:** Pano ekran görüntüsü:
+
+- **Ürün Durumu:**
+  - Takım üyelerimizin bilgisayarlarında yaşanan sorunlar nedeniyle uygulamanın geliştirilmesi tamamlanamamıştır.
+  - Ürün arayüzü oluşturulmuştur.
+
+- **Sprint Review:**
+  - Ürünümüzün arayüz geliştirmesi tamamlanmıştır.
+ 
+- **Sprint Retrospective:**
+  - Takım üyelerimizin gelecek projelerde daha aktif olması gerektiğine vurgu yapılmıştır.
+
+## Product Backlog URL
+[Backlog Board](https://trello.com/invite/b/Gh9qgTwu/ATTIf6c661e1da25259ce2478958a323a9ccD1590D95/oua-bootcamp)
+
+## Takım Notu
+Tüm takım üyelerinin aktiflik durumu ve görev dağılımı önceki sprintlerde olduğu gibi devam etmektedir.
