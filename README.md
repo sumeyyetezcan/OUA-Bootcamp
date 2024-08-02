@@ -137,7 +137,7 @@ Tüm takım üyelerinin aktiflik durumu ve görev dağılımı önceki sprint il
 
 ![image](https://github.com/user-attachments/assets/199ac02a-d2c3-420c-baa4-a90d67d48869)
 
-(Turuncu renklete olan görevler 3. sprşntte tamamlanan görevlerdir.)
+(Turuncu renklete olan görevler 3. sprintte tamamlanan görevlerdir.)
 
 - **Ürün Durumu:**
   - Takım üyelerimizin bilgisayarlarında yaşanan sorunlar nedeniyle uygulamanın geliştirilmesi tamamlanamamıştır.
