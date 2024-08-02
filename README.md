@@ -143,6 +143,8 @@ Tüm takım üyelerinin aktiflik durumu ve görev dağılımı önceki sprint il
   - Takım üyelerimizin bilgisayarlarında yaşanan sorunlar nedeniyle uygulamanın geliştirilmesi tamamlanamamıştır.
   - Ürün arayüzü oluşturulmuştur.
 
+![image](https://github.com/user-attachments/assets/b4e8f42b-4dc4-4ea8-8d60-04bf5dcb7394)
+
 - **Sprint Review:**
   - Ürünümüzün arayüz geliştirmesi tamamlanmıştır.
  
